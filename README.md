@@ -1,1 +1,1 @@
-# automation-exampleCypressWebsite
+# automation-exampleCypressWebsite-cypress
