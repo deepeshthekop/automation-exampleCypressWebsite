@@ -1,1 +1,3 @@
-# automation-exampleCypressWebsite-cypress
+# automation-exampleCypressWebsite
+
+learning automation using **Cypress**.
