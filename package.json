@@ -1,0 +1,16 @@
+{
+  "name": "cypressprojects",
+  "version": "1.0.0",
+  "description": "project 1",
+  "main": "index.js",
+  "scripts": {
+    "test1": "echo i am testing 1",
+    "test2": "echo i am testing 2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  }
+}
