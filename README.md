@@ -1,3 +1,5 @@
 # cypress-exampleCypressWebsite
 
-learning automation using **cypress**.
+self-learning automation using **cypress**.
+
+automating the https://example.cypress.io/ website.
